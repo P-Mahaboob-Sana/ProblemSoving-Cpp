@@ -1,3 +1,5 @@
+//program to print a pair Berth no. in a train compartment
+
 #include<iostream>
 using namespace std;
 
